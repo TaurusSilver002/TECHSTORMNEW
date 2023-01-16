@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/galaxy3"
+    tools:context=".AboutUsFragment">
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginHorizontal="10dp"
+        android:text="B.P. Poddar Institute of Management and Technology presents you Techstorm 2.20 where we aim at diversifying the manifold fields of technology."
+        android:textStyle=""
+        android:textColor="@color/white"
+        android:textSize="15dp"/>
+
+
+</FrameLayout>
