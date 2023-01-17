@@ -18,20 +18,20 @@
             android:layout_height="60dp"
             android:layout_marginStart="35dp"
             android:layout_marginTop="10dp"
-            android:src="@drawable/logo" />
+            android:src="@drawable/bppimt" />
         <de.hdodenhof.circleimageview.CircleImageView
             android:layout_width="60dp"
             android:layout_height="60dp"
             android:layout_marginStart="10dp"
             android:layout_marginTop="10dp"
-            android:src="@drawable/logo" />
+            android:src="@drawable/forum" />
 
         <de.hdodenhof.circleimageview.CircleImageView
             android:layout_width="60dp"
             android:layout_height="60dp"
             android:layout_marginStart="10dp"
             android:layout_marginTop="10dp"
-            android:src="@drawable/logo" />
+            android:src="@drawable/techstorm" />
     </LinearLayout>
 
     <TextView
