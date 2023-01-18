@@ -38,7 +38,7 @@
             android:layout_width="181dp"
             android:layout_height="217dp"
             android:layout_marginTop="48dp"
-            android:src="@drawable/img17"
+            android:src="@drawable/originalimg17"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintHorizontal_bias="0.056"
             app:layout_constraintStart_toStartOf="parent"
@@ -49,6 +49,8 @@
             android:layout_width="173dp"
             android:layout_height="16dp"
             android:layout_marginStart="16dp"
+            android:textColor="@color/white"
+
             android:text="Anushka Mukherjee"
             app:layout_constraintBottom_toTopOf="@+id/imageView"
             app:layout_constraintStart_toStartOf="parent"
@@ -62,6 +64,8 @@
             android:layout_width="173dp"
             android:layout_height="16dp"
             android:text="Dipnarayan Sen"
+            android:textColor="@color/white"
+
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintHorizontal_bias="0.454"
@@ -78,6 +82,8 @@
             android:text="Maaitrayo Das"
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintEnd_toEndOf="parent"
+            android:textColor="@color/white"
+
             app:layout_constraintHorizontal_bias="0.055"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/imageView"
